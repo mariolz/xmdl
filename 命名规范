@@ -1,0 +1,3 @@
+session 中规定的写死的变量
+
+$this->session->set_userdata('role_ids',array(1,2,3))   //用户的角色id
